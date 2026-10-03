@@ -14,6 +14,7 @@ Poteto 在 X 上說，她上個月把約 2,000 至 2,500 個 PR 送進 productio
 |---|---|
 | `index.html` | 單檔網頁，可直接用瀏覽器開啟 |
 | `poteto_pstack_spacex.md` | 深度導讀 Markdown 原稿 |
+| `share_post.md` | 純文字社群分享文（約 220 字） |
 | `images/web/` | 全景圖與兩張章節配圖（WebP，各有桌面 16:9 與手機 9:16） |
 | `images/hero/og_1200x630.png` | 連結分享預覽用的封面圖 |
 
